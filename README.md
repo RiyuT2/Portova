@@ -54,8 +54,8 @@ Portova is a web-based portfolio builder for students. A student fills in their 
 Home → Create Portfolio → Enter details → Save to Supabase → Choose 1 of 3 templates → Preview portfolio → Student Portfolios (View / Edit / Change template / Delete)
 
 ## Data Model
-## Project Directory
-portova/
+
+-portova/
 ├── index.html
 ├── create.html
 ├── templates.html
