@@ -31,9 +31,6 @@ Portova is a web-based portfolio builder for students. A student fills in their 
 - Hosting: Netlify
 
 ## Database
--Platform: Supabase, Table: portfolios
-
-
 **Platform:** Supabase, **Table:** `portfolios`
 
 | Column | Type | Description |
@@ -52,3 +49,23 @@ Portova is a web-based portfolio builder for students. A student fills in their 
 | `experience` | `jsonb` | List of role, company, years and description |
 | `links` | `jsonb` | List of label and URL |
 | `template` | `text` | `simple`, `modern` or `creative` (checked by the database) |
+
+## System Flow
+Home → Create Portfolio → Enter details → Save to Supabase → Choose 1 of 3 templates → Preview portfolio → Student Portfolios (View / Edit / Change template / Delete)
+
+## Data Model
+portova/
+├── index.html
+├── create.html
+├── templates.html
+├── preview.html
+├── manage.html
+├── choose-template.html   (redirects to templates.html)
+├── supabase-setup.sql
+├── css/style.css
+├── js/  common, supabase, create, templates, preview, manage
+└── assets/images/
+
+##System Preview
+
+
