@@ -93,7 +93,7 @@ portova/
 - Supabase stored
  <img width="1911" height="902" alt="image" src="https://github.com/user-attachments/assets/a28ac1e2-a2e7-4273-a7ae-2ae032e36a17" />
 
- - 3 Differences Template
+ ## 3 Differences Template
    Template 1: Simple
    <img width="1887" height="908" alt="image" src="https://github.com/user-attachments/assets/684725e0-aa96-4e9f-a883-477a8c4b04a2" />
 
@@ -103,7 +103,7 @@ portova/
    Template 3: Creative
    <img width="1897" height="902" alt="image" src="https://github.com/user-attachments/assets/550e7597-1c06-40da-9b67-012dba4a79b9" />
    
-##How to test
+## How to test
 -Open the published website URL.
 -Click Create portfolio and fill in the form.
 -lick Save and choose template. The data is saved to Supabase.
