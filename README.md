@@ -32,18 +32,23 @@ Portova is a web-based portfolio builder for students. A student fills in their 
 
 ## Database
 -Platform: Supabase, Table: portfolios
-Column	Type	Description
-id	uuid (primary key)	Generated automatically
-created_at	timestamptz	Date and time created
-full_name	text (required)	Full name
-email	text	Email address
-phone	text	Contact number
-address	text	Address
-about	text	About me
-photo_url	text	Resized profile photo stored as an image data URL
-skills	jsonb	List of skills
-education	jsonb	List of school, degree and years
-projects	jsonb	List of title, description and link
-experience	jsonb	List of role, company, years and description
-links	jsonb	List of label and URL
-template	text	simple, modern or creative (checked by the database)
+
+
+**Platform:** Supabase, **Table:** `portfolios`
+
+| Column | Type | Description |
+|---|---|---|
+| `id` | `uuid (primary key)` | Generated automatically |
+| `created_at` | `timestamptz` | Date and time created |
+| `full_name` | `text (required)` | Full name |
+| `email` | `text` | Email address |
+| `phone` | `text` | Contact number |
+| `address` | `text` | Address |
+| `about` | `text` | About me |
+| `photo_url` | `text` | Resized profile photo stored as an image data URL |
+| `skills` | `jsonb` | List of skills |
+| `education` | `jsonb` | List of school, degree and years |
+| `projects` | `jsonb` | List of title, description and link |
+| `experience` | `jsonb` | List of role, company, years and description |
+| `links` | `jsonb` | List of label and URL |
+| `template` | `text` | `simple`, `modern` or `creative` (checked by the database) |
