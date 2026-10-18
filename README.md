@@ -55,7 +55,8 @@ Home → Create Portfolio → Enter details → Save to Supabase → Choose 1 of
 
 ## Data Model
 
--portova/
+```text
+portova/
 ├── index.html
 ├── create.html
 ├── templates.html
@@ -74,6 +75,7 @@ Home → Create Portfolio → Enter details → Save to Supabase → Choose 1 of
 │   └── manage.js
 └── assets/
     └── images/
+```
 
 ##System Preview
 
