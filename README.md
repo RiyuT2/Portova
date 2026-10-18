@@ -90,5 +90,40 @@ portova/
 - Student Portfolio's
   <img width="1893" height="907" alt="image" src="https://github.com/user-attachments/assets/ef22e28f-9877-4ac9-9a60-a751faa7d56f" />
 
+- Supabase stored
+ <img width="1911" height="902" alt="image" src="https://github.com/user-attachments/assets/a28ac1e2-a2e7-4273-a7ae-2ae032e36a17" />
+
+ - 3 Differences Template
+   Template 1: Simple
+   <img width="1887" height="908" alt="image" src="https://github.com/user-attachments/assets/684725e0-aa96-4e9f-a883-477a8c4b04a2" />
+
+   Template 2: Modern
+   <img width="1886" height="916" alt="image" src="https://github.com/user-attachments/assets/e371e573-59ec-4aa8-8e22-94d4023db3fb" />
+
+   Template 3: Creative
+   <img width="1897" height="902" alt="image" src="https://github.com/user-attachments/assets/550e7597-1c06-40da-9b67-012dba4a79b9" />
+   
+##How to test
+-Open the published website URL.
+-Click Create portfolio and fill in the form.
+-lick Save and choose template. The data is saved to Supabase.
+-Choose a template to generate the portfolio.
+-Use Change template to try the other two designs.
+-Go to Student Portfolio to view, edit or delete a portfolio.
+-Refresh the page to confirm the saved data remains available.
+
+
+## Setup and Launch Instructions
+
+1. Clone or download the Portova repository.
+2. Configure your Supabase project URL and publishable key in `js/supabase.js`.
+3. Set up the `portfolios` table in Supabase using the provided database schema.
+4. Open the project folder in VS Code and launch `index.html` using the Live Server extension.
+   
+
+
+
+
+
 
 
