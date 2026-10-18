@@ -78,5 +78,17 @@ portova/
 ```
 
 ##System Preview
+- Homepage
+<img width="1892" height="946" alt="image" src="https://github.com/user-attachments/assets/00250d42-3a53-498f-8d51-b76cc7b01d0c" />
+
+- user portfolio before to start
+<img width="1910" height="888" alt="image" src="https://github.com/user-attachments/assets/e8c5b2d4-61da-4ec2-a7bf-dd7f460a0a13" />
+
+- Template Selection
+ <img width="1876" height="906" alt="image" src="https://github.com/user-attachments/assets/0546a39b-dc70-4be6-9011-a809cdd0b391" />
+
+- Student Portfolio's
+  <img width="1893" height="907" alt="image" src="https://github.com/user-attachments/assets/ef22e28f-9877-4ac9-9a60-a751faa7d56f" />
+
 
 
